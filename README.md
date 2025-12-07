@@ -1,108 +1,47 @@
-# 🔐 **Advanced Keylogger**
+# Advance Keylogger
 
----
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/787260295860191254/1005556601823952946/logo.png" width=500/>
+</p>
 
-## ❓ **What is a Keylogger?**
-**Keystroke logging** — also known as **keylogging** or **keyboard capture** — is the **covert recording** of every keystroke made on a keyboard, typically without the user’s knowledge.  
-The logged data can later be retrieved by the operator, making keyloggers a common tool for **stealing passwords, messages, and sensitive information**.
+## What is Keylogger ?
 
-> ⚠️ Even **Microsoft** has publicly acknowledged that Windows 10 includes a built-in keylogger — purportedly “to improve typing and writing functions.”
+_The action of recording (logging) the keys struck on a keyboard, often discreetly, so that the person using the keyboard is unaware that their activities are being observed is known as keystroke logging, also known as keylogging or keyboard capture. The person who is running the logging program can then obtain the data. Keylogger is most often used to steal passwords and other confidential information._
 
----
+_Even Microsoft has openly confirmed that the final version of Windows 10 features a built-in keylogger “to improve typing and writing functions.”_
 
-## 🔧 **Types of Keyloggers**
-Keyloggers are broadly categorized into two types:
+## Type of Keyloggers
+*There are two types of keyloggers:*
 
-### 🖥️ **Software-Based Keyloggers**
-- Capture keystrokes **at the software/OS level**
-- Can record **clipboard content**, **screenshots**, and **control text**
-- Log **search queries**, **chat conversations**, **FTP transfers**, and **internet activity**
-- Often run in the background as stealth processes
+* ### Software-Based Keyloggers
+  * Features that collect user information without relying solely on keyboard key presses can be added to software keyloggers.
+  * Logging of the clipboard The software can capture anything that has been copied to the clipboard.
+  * Logging on the computer screen. To collect graphics-based information, screenshots are taken.
+  * Capturing text in a control programmatically.
+  * Search engine queries, instant messenger talks, FTP downloads, and other Internet-based activities are all being recorded (including the bandwidth used).
 
-### 🔌 **Hardware-Based Keyloggers**
-- Physical devices installed **between the keyboard and the computer**
-- Begin logging **immediately upon system boot** (no software installation needed)
-- Operate at the **hardware level**, making detection via software difficult
-- Memory capacity can range from **KB to TB** (≈1 byte per keystroke)
+* ### Hardware-Based Keyloggers
+  * Typical Hardware Keylogger is a hardware circuit that is installed anywhere between the computer keyboard and the computer for keystroke logging.
+  * Hardware keyloggers have an advantage over software keyloggers in that they can start logging as soon as the machine is switched on.
+  * Hardware-based keyloggers do not require the installation of any software because they operate at the hardware level of a computer system.
+  * A hardware keylogger’s memory size can range from a few kilobytes to several terabytes, with each keystroke recorded typically consuming a byte
 
----
+## How to detect and remove Keylogger
+_Are there telltale signs that your device is hosting a keylogger? The answer is, it depends. Like most malware, you can use a good antivirus/anti-malware scanner to find and remove keyloggers._
 
-## 🕵️ **How to Detect & Remove Keyloggers**
-Detection depends on the keylogger's sophistication:
+_Keyloggers of poorer quality (such as the malware variety) might reveal themselves in a number of ways. The software might subtly degrade smartphone screenshots to a noticeable degree. On all devices, there could be a slowdown in web browsing performance. Or there’s a distinct lag in your mouse movement or keystrokes, or what you are actually typing doesn’t show up onscreen. You might even get an error message when loading graphics or web pages. All in all, something just seems “off.”_
 
-### 🔍 **Signs of a Poorly-Made Keylogger:**
-- Degraded **screenshot quality**
-- Slowed **web browsing** or **system performance**
-- **Input lag** in mouse movements or keystrokes
-- Unexpected **graphics errors** or loading issues
+_The well-designed commercial grade of keylogger usually works flawlessly, so it does not affect system performance at all. If the keylogger is sending reports to a remote operator, it disguises itself as normal files or traffic. Some of the programs will even display a notice on the screen that the system is being monitored—such as in a corporate computing environment. Others can reinstall themselves if users somehow succeed in finding them and attempt to remove them._
 
-### 🛡️ **Well-Designed Keyloggers:**
-- Run **flawlessly** with no noticeable performance impact
-- Disguise network traffic as **normal files** or **legitimate traffic**
-- May display a **monitoring notice** (corporate environments)
-- Some can **reinstall themselves** if removed
+_Of course, the best way to protect yourself and your equipment from falling victim to keyloggers is to scan your system regularly with a quality cybersecurity program. For instance. It uses heuristic analysis, signature recognition, and identification of typical keylogger behavior associated with keystroke and screenshot capturing to first find the malware, and then remove it._
 
-### ✅ **Best Protection Practices:**
-- Use **reputable antivirus/anti-malware** software with:
-  - **Heuristic analysis**
-  - **Signature recognition**
-  - **Behavioral detection** (keystroke/screenshot monitoring)
-- Perform **regular system scans**
+## Safe Side
+_Avoid keyloggers by avoiding the user mistakes that lead to their ability to infect phones and computers. It starts with keeping your operating system, your applications, and web browsers up to date with the latest security patches. Always be skeptical about any attachments you receive, especially unexpected ones even if they seem to come from someone you know. When in doubt, contact the sender to ask. Keep your passwords long and complex, and avoid using the same one for different services._
 
----
+_Real-time, always-on antivirus/anti-malware protection is the gold standard for preventing not only infection from a keylogger, but also from all other associated malware threats. For all platforms and devices, from Windows and Android, Mac and iPhones, to business environments._
 
-## 🛡️ **Staying Safe: Prevention Tips**
-### 🔄 **Keep Software Updated**
-- Regularly update your **OS, applications, and browsers**
+## Disclaimer
+_This tool is for educational purposes only, the author do not endorse or promote any illegal activity and are not responsible for any damage done henceforth._
 
-### 📎 **Be Cautious with Attachments**
-- Avoid opening **unexpected attachments**, even from known contacts
-- **Verify with the sender** if in doubt
-
-### 🔑 **Use Strong, Unique Passwords**
-- Create **long, complex passwords**
-- **Never reuse passwords** across services
-
-### 🛠️ **Employ Real-Time Protection**
-- Use **always-on antivirus/anti-malware** protection
-- Cover **all devices & platforms** (Windows, Android, macOS, iOS)
-
----
-
-## ⚠️ **Disclaimer**
-> 🧪 **This tool is for educational purposes only.**  
-> The author does **not endorse or promote illegal activities** and is **not responsible** for any misuse or damage resulting from this software.
-
----
-
-## 📜 **License**
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for more details.
-
-```
-Copyright (c) [2025] [Kunta Solomon Dongo]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-<div align="center">
-  <sub>🔐 Built for research & education | Use responsibly</sub>
-</div>
+## License
+_This program is free software; you can redistribute it and/or modify it under the terms of the MIT License (MIT). See [LICENSE](LICENSE) for more details._
